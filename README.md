@@ -40,13 +40,8 @@ I have been coding for a year
 
 <a href="https://github.com/SeshanSaravanan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeshanSaravanan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/https://www.github.com/SeshanSaravanan/100_DAYS-OF-CODE_PYTHON" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=https://www.github.com/SeshanSaravanan&repo=100_DAYS-OF-CODE_PYTHON&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/https://www.github.com/SeshanSaravanan/100-Cool-Projects-in-Python- " align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=https://www.github.com/SeshanSaravanan&repo=100-Cool-Projects-in-Python- &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
+  
 <br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/https://www.github.com/SeshanSaravanan/100-DAYS-OF-MACHINE-LEARNING-FROM-SCRATCH" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=https://www.github.com/SeshanSaravanan&repo=100-DAYS-OF-MACHINE-LEARNING-FROM-SCRATCH&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/https://www.github.com/SeshanSaravanan/JAVA-DSA-BOOTCAMP" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=https://www.github.com/SeshanSaravanan&repo=JAVA-DSA-BOOTCAMP&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-### Support Me
+## Support Me
 
 <a href="https://www.buymeacoffee.com/seshans170h?new=1"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
