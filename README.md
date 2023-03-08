@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Seshan Saravanan
 ========================================================================================================================================
 
-MERN stack Web Developer
+MERN stack Web Developer and Machine Learning Enthusiast.
 ------------------------
 
-I have been doing web development for more than a year.
+I have been doing machine learning and web development for more than a year.
 
 * 🌍  I'm based in Puducherry, India
 * ✉️  You can contact me at [seshan.s170@gmail.com](mailto:seshan.s170@gmail.com)
 * 🧠  I'm learning Machine Learning
-* 🤝  I'm open to collaborating on Interesting and Impactful projects
+* 🤝  I'm open to collaboration on Interesting and Impactful projects
 
 <a href="https://www.github.com/SeshanSaravanan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SeshanSaravanan?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a><a href="https://www.twitter.com/Seshan__S" target="_blank" rel="noreferrer"><img
