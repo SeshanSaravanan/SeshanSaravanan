@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seshansaravanan&label=Profile%20views&color=0e75b6&style=flat" alt="seshansaravanan" /> </p>
 
 # 💫 About Me:
-I'm an engineering sophomore pursuing <br>Electronics and Communication Engineering.<br><br>I'm currently working on MERN stack development, <br>Machine learning and Python programming.<br><br>
+I'm an engineering sophomore pursuing Electronics and Communication Engineering.<br><br>I'm currently working on MERN stack development, Machine learning and Python programming.<br><br>
 
 
 ## 🌐 Socials:
@@ -22,3 +22,5 @@ I'm an engineering sophomore pursuing <br>Electronics and Communication Engineer
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
+[![An image of @seshansaravanan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/seshansaravanan)](https://holopin.io/@seshansaravanan)
