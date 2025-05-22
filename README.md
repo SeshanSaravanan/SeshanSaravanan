@@ -1,26 +1,23 @@
-<h1 align="center">Hi 👋, I'm Seshan</h1>
-<h3 align="center">AI/ML Enthusiast, MERN stack and Flutter Developer</h3>
+# 👋 Hi, I'm Seshan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seshansaravanan&label=Profile%20views&color=0e75b6&style=flat" alt="seshansaravanan" /> </p>
+I'm a final-year B.Tech student in Electronics and Communication Engineering at Puducherry Technological University, deeply passionate about research at the intersection of **Artificial Intelligence**, **Neuroscience**, and **Human-AI Collaboration**.
 
-# 💫 About Me:
-I'm an engineering sophomore pursuing Electronics and Communication Engineering.<br><br>I'm currently working on MERN stack development, Machine learning and Python programming.<br><br>
+🔬 My research focuses on **augmenting human potential** through brain-inspired AI systems, assistive technologies, and multimodal machine learning for early diagnosis and cognitive support.
 
+💡 Currently, I'm:
+- 🧠 Leading my thesis project: **FALCON-AI**, a real-time diagnostic framework using 3D Swin Transformers and neuroanatomical rules for Alzheimer's diagnosis.
+- 🧪 Working on lightweight, edge-deployable **multimodal AI systems** for early detection of neurodegenerative diseases using EEG and clinical data.
+- 📝 Authoring a book titled *"Thinking Like a Brain"* — an exploration of brain-inspired AI and the future of human-AI synergy.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seshansaravanan/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Seshan__S) 
+📚 I've contributed to research projects across premier institutes like **IISc**, **JIPMER**, and **NIT Trichy**, with 5+ research papers (published or submitted) and multiple interdisciplinary collaborations.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SeshanSaravanan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SeshanSaravanan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SeshanSaravanan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Seshan )](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🔗 **Portfolio:** [seshan-ai.netlify.app](https://seshan-ai.netlify.app)  
+📫 **Email:** seshan.saravanan170@gmail.com  
+🐦 **Twitter/X:** [@SeshanSaravanan](https://twitter.com/SeshanSaravanan)  
+🔍 **Google Scholar:** [Link]  
+🔗 **LinkedIn:** [linkedin.com/in/seshansaravanan](https://linkedin.com/in/seshansaravanan)
 
 ---
 
-[![An image of @seshansaravanan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/seshansaravanan)](https://holopin.io/@seshansaravanan)
+> "The brain is not just an inspiration — it's a blueprint for the next generation of intelligence."  
+> — *Seshan S.*
