@@ -1,22 +1,33 @@
-# 👋 Hi, I'm Seshan
+## Hi, I’m Seshan Saravanan 👋  
 
-I'm a final-year B.Tech student in Electronics and Communication Engineering at Puducherry Technological University, deeply passionate about research at the intersection of **Artificial Intelligence**, **Neuroscience**, and **Human-AI Collaboration**.
+🎓 **Electronics and Communication Engineer** | 💻 **AI & Signal Processing Researcher** | 🧠 **Computational Neuroscience Enthusiast**  
 
-🔬 My research focuses on **augmenting human potential** through brain-inspired AI systems, assistive technologies, and multimodal machine learning for early diagnosis and cognitive support.
+I am currently conducting research at the **Indian Institute of Science (IISc)**, working at the intersection of **Artificial Intelligence** and **Signal Processing** with a focus on enhancing speech intelligibility in complex acoustic environments.  
 
-💡 Currently, I'm:
-- 🧠 Leading my thesis project: **FALCON-AI**, a real-time diagnostic framework using 3D Swin Transformers and neuroanatomical rules for Alzheimer's diagnosis.
-- 🧪 Working on lightweight, edge-deployable **multimodal AI systems** for early detection of neurodegenerative diseases using EEG and clinical data.
-
-📚 I've contributed to research projects across premier institutes like **IISc**, **JIPMER**, and **NIT Trichy**, with 5+ research papers (published or submitted) and multiple interdisciplinary collaborations.
-
-🔗 **Portfolio:** [seshan-ai.netlify.app](https://seshan-ai.netlify.app)  
-📫 **Email:** seshan.saravanan170@gmail.com  
-🐦 **Twitter/X:** [@SeshanSaravanan](https://twitter.com/SeshanSaravanan)  
-🔍 **Google Scholar:** [Link]  
-🔗 **LinkedIn:** [linkedin.com/in/seshansaravanan](https://linkedin.com/in/seshansaravanan)
+My work integrates **AI algorithms**, **acoustic modeling**, and **cognitive science** to design intelligent systems that not only process signals efficiently but also adapt seamlessly to human needs—paving the way for more natural and effective human-AI collaboration.  
 
 ---
 
-> "The brain is not just an inspiration — it's a blueprint for the next generation of intelligence."  
-> — *Seshan S.*
+### 🔍 Research & Interests  
+- Artificial Intelligence & Machine Learning for speech and acoustic systems  
+- Digital Signal Processing & acoustic modeling  
+- Computational Neuroscience & brain-inspired AI  
+- Human-AI Collaboration & adaptive systems  
+
+---
+
+### 🛠️ Skills & Tools  
+**Programming:** Python, MATLAB, C/C++  
+**Frameworks:** TensorFlow, PyTorch, Scikit-learn  
+**Specialized Areas:** DSP, Speech Intelligibility, Acoustic Modeling, Neural Network Design  
+
+---
+
+### 📫 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/seshansaravanan)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-brightgreen?logo=About.me)](seshan.vercel.app)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:seshan.saravanan170@gmail.com)  
+
+---
+
+💡 *"I believe in building intelligent systems that don’t just process information, but truly understand, adapt, and collaborate with humans."*
