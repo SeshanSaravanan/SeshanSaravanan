@@ -1,33 +1,24 @@
-## Hi, I’m Seshan Saravanan 👋  
+# Seshan Saravanan
 
-🎓 **Electronics and Communication Engineer** | 💻 **AI & Signal Processing Researcher** | 🧠 **Computational Neuroscience Enthusiast**  
+M.Sc. Information Technology student at the **University of Stuttgart**, working on **signal processing and deep learning** for speech and biomedical signals.
 
-I am currently conducting research at the **Indian Institute of Science (IISc)**, working at the intersection of **Artificial Intelligence** and **Signal Processing** with a focus on enhancing speech intelligibility in complex acoustic environments.  
+Before my Master's, I was a research associate at the **SPIRE Lab, Indian Institute of Science (IISc)**, supervised by Prof. Prasanta Kumar Ghosh, on DRDO-funded speech research.
 
-My work integrates **AI algorithms**, **acoustic modeling**, and **cognitive science** to design intelligent systems that not only process signals efficiently but also adapt seamlessly to human needs—paving the way for more natural and effective human-AI collaboration.  
+## Research interests
+- Speech intelligibility prediction and enhancement
+- Fairness and bias in automatic speech recognition
+- Efficient models for edge deployment (state-space models, quantization)
+- Biomedical signal processing (EEG-based dementia screening)
 
----
+## Publications
+- **Gender Bias in ASR: A Controlled Study of Gender Composition Across Training Paradigms.** *Interspeech 2026*, Sydney. [doi:10.21437/Interspeech.2026-3047](https://doi.org/10.21437/Interspeech.2026-3047)
+- Two further papers under review at IEEE ICASSP 2027, on non-intrusive speech intelligibility prediction with convolution-augmented Mamba and on the impact of audio codecs on distorted speech intelligibility.
+- Real-time vehicular traffic flow monitoring and classification, *IEEE ICACIC 2023* (Best Paper Nominee).
 
-### 🔍 Research & Interests  
-- Artificial Intelligence & Machine Learning for speech and acoustic systems  
-- Digital Signal Processing & acoustic modeling  
-- Computational Neuroscience & brain-inspired AI  
-- Human-AI Collaboration & adaptive systems  
+## Skills
+**Programming:** Python, MATLAB, C++ (basic)
+**ML frameworks:** PyTorch, TensorFlow, Scikit-learn
+**Data & tools:** Pandas, NumPy, Matplotlib
 
----
-
-### 🛠️ Skills & Tools  
-**Programming:** Python, MATLAB, C/C++  
-**Frameworks:** TensorFlow, PyTorch, Scikit-learn  
-**Specialized Areas:** DSP, Speech Intelligibility, Acoustic Modeling, Neural Network Design  
-
----
-
-### 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/seshansaravanan)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-brightgreen?logo=About.me)](seshan.vercel.app)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:seshan.saravanan170@gmail.com)  
-
----
-
-💡 *"I believe in building intelligent systems that don’t just process information, but truly understand, adapt, and collaborate with humans."*
+## Connect
+[LinkedIn](https://www.linkedin.com/in/seshansaravanan/) · [ResearchGate](https://www.researchgate.net/profile/Seshan-Saravanan) · [Portfolio](https://seshan.vercel.app) · [Email](mailto:seshan.saravanan170@gmail.com)
